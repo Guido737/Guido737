@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=600&height=80&lines=Welcome+to+my+DevOps+Realm!;Innovating+with+Containers;Automating+the+Future;Cloud+Native+Wizard;Infrastructure+as+Code+Artist" alt="Typing SVG" />
 </p>
 
-# 👋 Hi, I IAM
+# 👋 Hi, IAM
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Creator/Eversor&fontSize=60&fontAlignY=35&animation=fade&duration=30000&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Expert&descSize=20&descAlignY=55)
 
 ---
@@ -39,9 +39,9 @@
 ---
 
 ## 🔥 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Guido737&theme=dark&hide_border=true&height=180)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guido737&show_icons=true&theme=dark&hide_border=true&height=180)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guido737&layout=compact&theme=dark&hide_border=true&height=180)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Guido737&theme=dark&hide_border=true&width=400&height=180)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guido737&show_icons=true&theme=dark&hide_border=true&width=400&height=180)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guido737&layout=compact&theme=dark&hide_border=true&width=400&height=180)  
 
 ---
 
