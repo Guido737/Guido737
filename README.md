@@ -47,9 +47,17 @@
 ---
 
 ## 🏆 Projects
-- [**ProTeq**](https://github.com/Guido737/ProTeq) – Multi-factor banking card protection system  
-- [S3 File Manager](https://github.com/Guido737/S3-File-Manager) – CLI / Web API for AWS S3 management  
-- [DevOps Labs](https://github.com/Guido737/DevOps-Labs) – Practical scenarios with Docker, Kubernetes, CI/CD  
+
+<div align="left">
+
+[![ProTeq](https://img.shields.io/badge/ProTeq-Advanced%20Banking%20Security-purple?style=for-the-badge&logo=github&logoColor=white&labelColor=6f42c1&rounded=true)](https://github.com/Guido737/ProTeq)
+
+[![S3 File Manager](https://img.shields.io/badge/S3%20File%20Manager-CLI%20%2F%20Web%20API-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1e40af&rounded=true)](https://github.com/Guido737/S3-File-Manager)
+
+[![DevOps Labs](https://img.shields.io/badge/DevOps%20Labs-Docker%20%2F%20Kubernetes%20%2F%20CI%2FCD-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=f97316&rounded=true)](https://github.com/Guido737/DevOps-Labs)
+
+</div>
+
 
 ---
 
