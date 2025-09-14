@@ -47,42 +47,14 @@
 ---
 ## 🏆 Projects
 
-<div align="left" style="display:flex; flex-direction: column; gap: 15px; max-width: 600px;">
+![ProTeq](https://img.shields.io/badge/ProTeq-Next-Level%20Security%20%7C%20Advanced%20Tools-blue?style=for-the-badge)
+⭐ Stars: 10 | 🍴 Forks: 2 | 🐛 Issues: 1 | ⚡ Activity: High
 
-<!-- ProTeq -->
-<div style="border-radius: 15px; overflow: hidden; background: #0d1117; width: 400px; border: 2px solid #6f42c1;">
-  <div style="padding: 10px; color: #ffffff; text-align: center; font-weight: bold; font-size: 18px;">
-    🔒 ProTeq
-  </div>
-  <div style="padding: 10px; color: #00ff00; font-size: 14px;">
-    Next-Level Security | Advanced Tools Access<br>
-    ⭐ 42 | 🍴 10 | 🐛 3 | ⚡ Active
-  </div>
-</div>
+![S3 File Manager](https://img.shields.io/badge/S3%20File%20Manager-Fast%20Management%20%7C%20Data%20Encryption-green?style=for-the-badge)
+⭐ Stars: 15 | 🍴 Forks: 3 | 🐛 Issues: 0 | ⚡ Activity: Medium
 
-<!-- S3 File Manager -->
-<div style="border-radius: 15px; overflow: hidden; background: #0d1117; width: 400px; border: 2px solid #1e40af;">
-  <div style="padding: 10px; color: #ffffff; text-align: center; font-weight: bold; font-size: 18px;">
-    📁 S3 File Manager
-  </div>
-  <div style="padding: 10px; color: #00ff00; font-size: 14px;">
-    Fast Management | Data Encryption<br>
-    ⭐ 35 | 🍴 8 | 🐛 1 | ⚡ Active
-  </div>
-</div>
-
-<!-- DevOps Labs -->
-<div style="border-radius: 15px; overflow: hidden; background: #0d1117; width: 400px; border: 2px solid #f97316;">
-  <div style="padding: 10px; color: #ffffff; text-align: center; font-weight: bold; font-size: 18px;">
-    🧪 DevOps Labs
-  </div>
-  <div style="padding: 10px; color: #00ff00; font-size: 14px;">
-    Practical Scenarios | CI/CD & Cloud<br>
-    ⭐ 28 | 🍴 6 | 🐛 0 | ⚡ Active
-  </div>
-</div>
-
-</div>
+![DevOps Labs](https://img.shields.io/badge/DevOps%20Labs-Practical%20Scenarios%20%7C%20CI%2FCD%20%26%20Cloud-orange?style=for-the-badge)
+⭐ Stars: 8 | 🍴 Forks: 1 | 🐛 Issues: 0 | ⚡ Activity: Low
 
 ---
 
