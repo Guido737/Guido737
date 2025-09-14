@@ -50,30 +50,33 @@
 <div align="left" style="display:flex; flex-direction: column; gap: 15px; max-width: 600px;">
 
 <!-- ProTeq -->
-<div style="border-radius: 15px; overflow: hidden; background: #0d1117; width: 400px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guido737&repo=ProTeq&theme=dark&show_owner=true&hide_border=true&width=400&height=180" alt="ProTeq" style="width:100%;">
-  <div style="padding: 10px; color: #ffffff;">
-    🔒 <strong>ProTeq</strong><br>
+<div style="border-radius: 15px; overflow: hidden; background: #0d1117; width: 400px; border: 2px solid #6f42c1;">
+  <div style="padding: 10px; color: #ffffff; text-align: center; font-weight: bold; font-size: 18px;">
+    🔒 ProTeq
+  </div>
+  <div style="padding: 10px; color: #00ff00; font-size: 14px;">
     Next-Level Security | Advanced Tools Access<br>
     ⭐ 42 | 🍴 10 | 🐛 3 | ⚡ Active
   </div>
 </div>
 
 <!-- S3 File Manager -->
-<div style="border-radius: 15px; overflow: hidden; background: #0d1117; width: 400px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guido737&repo=S3-File-Manager&theme=dark&show_owner=true&hide_border=true&width=400&height=180" alt="S3 File Manager" style="width:100%;">
-  <div style="padding: 10px; color: #ffffff;">
-    📁 <strong>S3 File Manager</strong><br>
+<div style="border-radius: 15px; overflow: hidden; background: #0d1117; width: 400px; border: 2px solid #1e40af;">
+  <div style="padding: 10px; color: #ffffff; text-align: center; font-weight: bold; font-size: 18px;">
+    📁 S3 File Manager
+  </div>
+  <div style="padding: 10px; color: #00ff00; font-size: 14px;">
     Fast Management | Data Encryption<br>
     ⭐ 35 | 🍴 8 | 🐛 1 | ⚡ Active
   </div>
 </div>
 
 <!-- DevOps Labs -->
-<div style="border-radius: 15px; overflow: hidden; background: #0d1117; width: 400px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guido737&repo=DevOps-Labs&theme=dark&show_owner=true&hide_border=true&width=400&height=180" alt="DevOps Labs" style="width:100%;">
-  <div style="padding: 10px; color: #ffffff;">
-    🧪 <strong>DevOps Labs</strong><br>
+<div style="border-radius: 15px; overflow: hidden; background: #0d1117; width: 400px; border: 2px solid #f97316;">
+  <div style="padding: 10px; color: #ffffff; text-align: center; font-weight: bold; font-size: 18px;">
+    🧪 DevOps Labs
+  </div>
+  <div style="padding: 10px; color: #00ff00; font-size: 14px;">
     Practical Scenarios | CI/CD & Cloud<br>
     ⭐ 28 | 🍴 6 | 🐛 0 | ⚡ Active
   </div>
