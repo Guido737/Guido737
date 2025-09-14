@@ -50,38 +50,32 @@
 <div align="left" style="display:flex; flex-direction: column; gap: 15px; max-width: 600px;">
 
 <!-- ProTeq -->
-<div style="border: 2px solid #6f42c1; border-radius: 15px; padding: 15px; background: #0d1117;">
-  <h3 style="margin:0; color:#ffffff;">🔒 ProTeq</h3>
-  <p style="margin:5px 0; color:#cfcfcf;">Next-Level Security | Advanced Tools Access</p>
-  <div style="display:flex; gap:10px; margin-top:5px;">
-    <span>⭐ 42</span>
-    <span>🍴 10</span>
-    <span>🐛 3</span>
-    <span>⚡ Active</span>
+<div style="border-radius: 15px; overflow: hidden; background: #0d1117; width: 400px;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guido737&repo=ProTeq&theme=dark&show_owner=true&hide_border=true&width=400&height=180" alt="ProTeq" style="width:100%;">
+  <div style="padding: 10px; color: #ffffff;">
+    🔒 <strong>ProTeq</strong><br>
+    Next-Level Security | Advanced Tools Access<br>
+    ⭐ 42 | 🍴 10 | 🐛 3 | ⚡ Active
   </div>
 </div>
 
 <!-- S3 File Manager -->
-<div style="border: 2px solid #1e40af; border-radius: 15px; padding: 15px; background: #0d1117;">
-  <h3 style="margin:0; color:#ffffff;">📁 S3 File Manager</h3>
-  <p style="margin:5px 0; color:#cfcfcf;">Fast Management | Data Encryption</p>
-  <div style="display:flex; gap:10px; margin-top:5px;">
-    <span>⭐ 35</span>
-    <span>🍴 8</span>
-    <span>🐛 1</span>
-    <span>⚡ Active</span>
+<div style="border-radius: 15px; overflow: hidden; background: #0d1117; width: 400px;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guido737&repo=S3-File-Manager&theme=dark&show_owner=true&hide_border=true&width=400&height=180" alt="S3 File Manager" style="width:100%;">
+  <div style="padding: 10px; color: #ffffff;">
+    📁 <strong>S3 File Manager</strong><br>
+    Fast Management | Data Encryption<br>
+    ⭐ 35 | 🍴 8 | 🐛 1 | ⚡ Active
   </div>
 </div>
 
 <!-- DevOps Labs -->
-<div style="border: 2px solid #f97316; border-radius: 15px; padding: 15px; background: #0d1117;">
-  <h3 style="margin:0; color:#ffffff;">🧪 DevOps Labs</h3>
-  <p style="margin:5px 0; color:#cfcfcf;">Practical Scenarios | CI/CD & Cloud</p>
-  <div style="display:flex; gap:10px; margin-top:5px;">
-    <span>⭐ 28</span>
-    <span>🍴 6</span>
-    <span>🐛 0</span>
-    <span>⚡ Active</span>
+<div style="border-radius: 15px; overflow: hidden; background: #0d1117; width: 400px;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guido737&repo=DevOps-Labs&theme=dark&show_owner=true&hide_border=true&width=400&height=180" alt="DevOps Labs" style="width:100%;">
+  <div style="padding: 10px; color: #ffffff;">
+    🧪 <strong>DevOps Labs</strong><br>
+    Practical Scenarios | CI/CD & Cloud<br>
+    ⭐ 28 | 🍴 6 | 🐛 0 | ⚡ Active
   </div>
 </div>
 
