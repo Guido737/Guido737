@@ -51,20 +51,20 @@
 
 <!-- ProTeq -->
 <div style="border: 2px solid #6f42c1; border-radius: 15px; padding: 15px; background: #0d1117;">
-  <img src="https://img.shields.io/badge/ProTeq-Next-Level%20Security-green?style=for-the-badge" alt="ProTeq" style="width: 100%;">
-  ⭐ Stars: 10 | 🍴 Forks: 2 | 🐛 Issues: 1 | ⚡ Activity: High
+  <img src="https://img.shields.io/badge/ProTeq-Next--Level%20Security|Advanced%20Tools%20Access-6f42c1?style=for-the-badge" alt="ProTeq" style="width: 100%;">
+  <p>⭐ Stars: 10 | 🍴 Forks: 2 |  Issues: 1 | ⚡ Activity: High</p>
 </div>
 
 <!-- S3 File Manager -->
 <div style="border: 2px solid #1e40af; border-radius: 15px; padding: 15px; background: #0d1117;">
-  <img src="https://img.shields.io/badge/S3%20File%20Manager-Fast%20Management-blue?style=for-the-badge" alt="S3 File Manager" style="width: 100%;">
-  ⭐ Stars: 15 | 🍴 Forks: 3 | 🐛 Issues: 0 | ⚡ Activity: Medium
+  <img src="https://img.shields.io/badge/S3%20File%20Manager-Fast%20Management|Data%20Encryption-1e40af?style=for-the-badge" alt="S3 File Manager" style="width: 100%;">
+  <p>⭐ Stars: 15 | 🍴 Forks: 3 |  Issues: 0 | ⚡ Activity: Medium</p>
 </div>
 
 <!-- DevOps Labs -->
 <div style="border: 2px solid #f97316; border-radius: 15px; padding: 15px; background: #0d1117;">
-  <img src="https://img.shields.io/badge/DevOps%20Labs-Practical%20Scenarios-orange?style=for-the-badge" alt="DevOps Labs" style="width: 100%;">
-  ⭐ Stars: 8 | 🍴 Forks: 1 | 🐛 Issues: 0 | ⚡ Activity: Low
+  <img src="https://img.shields.io/badge/DevOps%20Labs-Practical%20Scenarios|CI%2FCD%20&%20Cloud-f97316?style=for-the-badge" alt="DevOps Labs" style="width: 100%;">
+  <p>⭐ Stars: 8 | 🍴 Forks: 1 |  Issues: 0 | ⚡ Activity: Low</p>
 </div>
 
 </div>
