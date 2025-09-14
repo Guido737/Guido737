@@ -2,11 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=600&height=80&lines=Welcome+to+my+DevOps+Realm!;Innovating+with+Containers;Automating+the+Future;Cloud+Native+Wizard;Infrastructure+as+Code+Artist" alt="Typing SVG" />
 </p>
 
-<div align="center">
-
 # 👋 Hi, I IAM
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Creator/Eversor&fontSize=60&fontAlignY=35&animation=blinking&duration=30000&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Expert&descSize=20&descAlignY=55)
-
 
 ---
 
@@ -65,4 +62,5 @@
 - I love **optimizing processes**, automating everything, and making infrastructure “alive.”  
 - Constantly experimenting with Bash, Docker, Kubernetes, CI/CD pipelines, and cloud solutions.  
 - Always learning new DevOps technologies to stay ahead in automation and cloud engineering.
+
 
