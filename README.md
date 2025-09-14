@@ -1,4 +1,4 @@
-# 👋 Hi IAM Creator/eversor  
+# 👋 Hi IAM Creator/Eversor  
 
 ⚙️ **DevOps Engineer** | 🐧 Linux Enthusiast | ☁️ Cloud & Automation  
 
