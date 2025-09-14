@@ -26,9 +26,15 @@
 
 ### 📊 Skills & Progress
 
-Terraform: ![Terraform Progress](https://progress-bar.dev/75/?title=Terraform&color=00FFCC)  
-AWS Cloud: ![AWS Progress](https://progress-bar.dev/80/?title=AWS&color=FFAA00)  
-Docker/K8s: ![Docker Progress](https://progress-bar.dev/90/?title=Docker%2FK8s&color=007ACC)  
+💻 **Terraform**  
+![Terraform Progress](https://progress-bar.dev/75/?title=Terraform&color=00FFCC&style=flat-square)  
+
+☁️ **AWS Cloud**  
+![AWS Progress](https://progress-bar.dev/80/?title=AWS+Cloud&color=FFAA00&style=flat-square)  
+
+🐳 **Docker & Kubernetes**  
+![Docker/K8s Progress](https://progress-bar.dev/90/?title=Docker%2FK8s&color=007ACC&style=flat-square)  
+
 
 ---
 
