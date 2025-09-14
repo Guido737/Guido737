@@ -46,7 +46,7 @@
 ---
 
 ## 🤝 Connect with Me
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Creator/Eversor/Satus/Finis)  
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Creator/Eversor/Satus/Finis/)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:secretmarsel@gmail.com)  
 
 ---
