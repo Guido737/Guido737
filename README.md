@@ -3,7 +3,7 @@
 </p>
 
 # 👋 Hi, IAM
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Creator/Eversor&fontSize=60&fontAlignY=35&animation=fade&duration=30000&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Expert&descSize=20&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=220&section=header&text=Creator/Eversor&fontSize=60&fontAlignY=35&animation=fade&duration=30000&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Expert&descSize=20&descAlignY=55&backgroundColor=0d1117)
 ---
 
 ⚙️ **DevOps Engineer** | 🐧 Linux Enthusiast | ☁️ Cloud & Automation  
