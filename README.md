@@ -45,35 +45,34 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guido737&layout=compact&theme=dark&hide_border=true&width=400&height=180)  
 
 ---
-
 ## 🏆 Projects
 
-<div align="left">
+<div align="left" style="display:flex; flex-direction: column; gap: 15px; max-width: 600px;">
 
 <!-- ProTeq -->
-<div style="border: 2px solid #6f42c1; border-radius: 15px; padding: 10px; margin-bottom: 10px; width: 400px;">
-  <h3 style="margin: 0;"><a href="https://github.com/Guido737/ProTeq">🔒 ProTeq</a></h3>
-  <p style="margin: 5px 0 0 0;">Multi-factor banking card protection system with AI-powered threat detection.</p>
-  <p style="margin: 5px 0 0 0;">
-    ⭐ Stars | 🍴 Forks | 🐛 Issues | ⚡ Activity
+<div style="border: 2px solid #6f42c1; border-radius: 15px; padding: 15px; background: #0d1117;">
+  <h3 style="margin:0;"><a href="https://github.com/Guido737/ProTeq" style="color:#39FF14;">🔒 ProTeq</a></h3>
+  <p style="margin:5px 0 0 0; color:white;">Multi-factor banking card protection system with AI-powered threat detection.</p>
+  <p style="margin:5px 0 0 0; color:#39FF14;">
+    ⭐ <b>Stars:</b> 123 | 🍴 <b>Forks:</b> 45 | 🐛 <b>Issues:</b> 10 | ⚡ <b>Last Commit:</b> 2d ago
   </p>
 </div>
 
 <!-- S3 File Manager -->
-<div style="border: 2px solid #1e40af; border-radius: 15px; padding: 10px; margin-bottom: 10px; width: 400px;">
-  <h3 style="margin: 0;"><a href="https://github.com/Guido737/S3-File-Manager">📁 S3 File Manager</a></h3>
-  <p style="margin: 5px 0 0 0;">Advanced CLI/Web API for AWS S3 management with encryption and analytics.</p>
-  <p style="margin: 5px 0 0 0;">
-    ⭐ Stars | 🍴 Forks | 🐛 Issues | ⚡ Activity
+<div style="border: 2px solid #1e40af; border-radius: 15px; padding: 15px; background: #0d1117;">
+  <h3 style="margin:0;"><a href="https://github.com/Guido737/S3-File-Manager" style="color:#39FF14;">📁 S3 File Manager</a></h3>
+  <p style="margin:5px 0 0 0; color:white;">Advanced CLI/Web API for AWS S3 management with encryption and analytics.</p>
+  <p style="margin:5px 0 0 0; color:#39FF14;">
+    ⭐ <b>Stars:</b> 98 | 🍴 <b>Forks:</b> 32 | 🐛 <b>Issues:</b> 7 | ⚡ <b>Last Commit:</b> 5d ago
   </p>
 </div>
 
 <!-- DevOps Labs -->
-<div style="border: 2px solid #f97316; border-radius: 15px; padding: 10px; margin-bottom: 10px; width: 400px;">
-  <h3 style="margin: 0;"><a href="https://github.com/Guido737/DevOps-Labs">🧪 DevOps Labs</a></h3>
-  <p style="margin: 5px 0 0 0;">Comprehensive practical scenarios with Docker, Kubernetes, and advanced CI/CD pipelines.</p>
-  <p style="margin: 5px 0 0 0;">
-    ⭐ Stars | 🍴 Forks | 🐛 Issues | ⚡ Activity
+<div style="border: 2px solid #f97316; border-radius: 15px; padding: 15px; background: #0d1117;">
+  <h3 style="margin:0;"><a href="https://github.com/Guido737/DevOps-Labs" style="color:#39FF14;">🧪 DevOps Labs</a></h3>
+  <p style="margin:5px 0 0 0; color:white;">Comprehensive practical scenarios with Docker, Kubernetes, and advanced CI/CD pipelines.</p>
+  <p style="margin:5px 0 0 0; color:#39FF14;">
+    ⭐ <b>Stars:</b> 110 | 🍴 <b>Forks:</b> 40 | 🐛 <b>Issues:</b> 5 | ⚡ <b>Last Commit:</b> 3d ago
   </p>
 </div>
 
