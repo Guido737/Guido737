@@ -1,93 +1,68 @@
-# 👋 Hi, I am Creator / Eversor
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&color=FF6CFF&center=true&vCenter=true&random=false&width=600&height=80&lines=Welcome+to+my+DevOps+Realm!;Innovating+with+Containers;Automating+the+Future;Cloud+Native+Wizard;Infrastructure+as+Code+Artist" alt="Typing SVG" />
+</p>
+
+<div align="center">
+
+# 👋 Hi, I IAM Creator / Eversor
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Creator/Eversor&fontSize=60&fontAlignY=35&animation=blinking&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Expert&descSize=20&descAlignY=55)
 
 ---
 
-## 🌟 Tech Stack
-
-### 🛠️ Core Technologies
-| Technology | Proficiency |
-|------------|------------|
-| Bash       | ![Progress](https://progress-bar.dev/95/?width=200&color=00ff00) |
-| Python     | ![Progress](https://progress-bar.dev/90/?width=200&color=3776AB) |
-| Docker     | ![Progress](https://progress-bar.dev/98/?width=200&color=2496ED) |
-| Kubernetes | ![Progress](https://progress-bar.dev/92/?width=200&color=326CE5) |
-
-### ☁️ Cloud & Infrastructure
-| Technology | Proficiency |
-|------------|------------|
-| AWS        | ![Progress](https://progress-bar.dev/88/?width=200&color=FF9900) |
-| Terraform  | ![Progress](https://progress-bar.dev/85/?width=200&color=623CE4) |
-| Ansible    | ![Progress](https://progress-bar.dev/82/?width=200&color=EE0000) |
-| GCP        | ![Progress](https://progress-bar.dev/75/?width=200&color=4285F4) |
-
-### ⚡ DevOps Tools
-| Technology | Proficiency |
-|------------|------------|
-| Jenkins    | ![Progress](https://progress-bar.dev/87/?width=200&color=D24939) |
-| GitLab CI  | ![Progress](https://progress-bar.dev/90/?width=200&color=FC6D26) |
-| Prometheus | ![Progress](https://progress-bar.dev/83/?width=200&color=E6522C) |
-| Grafana    | ![Progress](https://progress-bar.dev/85/?width=200&color=F46800) |
+⚙️ **DevOps Engineer** | 🐧 Linux Enthusiast | ☁️ Cloud & Automation  
 
 ---
 
-## 🎮 Real-Time Activity
+## 🛠️ Stack / Tools (Hi-Tech Dashboard)
 
-**Live DevOps Terminal Simulation**
+| Tool / Stack      | Icon | Skill / Progress |
+|------------------|------|----------------|
+| Bash             | 🖥️ ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Progress](https://progress-bar.dev/85/?color=00FFCC&style=flat-square) |
+| Python           | 🐍 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Progress](https://progress-bar.dev/90/?color=3776AB&style=flat-square) |
+| Docker           | 🐳 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Progress](https://progress-bar.dev/95/?color=2496ED&style=flat-square) |
+| Kubernetes       | ☸️ ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Progress](https://progress-bar.dev/90/?color=326CE5&style=flat-square) |
+| AWS              | ☁️ ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Progress](https://progress-bar.dev/80/?color=FF9900&style=flat-square) |
+| Terraform        | 🔧 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) | ![Progress](https://progress-bar.dev/75/?color=623CE4&style=flat-square) |
+| Ansible          | 🤖 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) | ![Progress](https://progress-bar.dev/70/?color=EE0000&style=flat-square) |
+| Git              | 🗃️ ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Progress](https://progress-bar.dev/95/?color=F05032&style=flat-square) |
 
-```bash
-#!/bin/bash
-while true; do
-  echo -e "\e[1;36m[$(date +%T)]\e[0m \e[1;33m➜\e[0m Deploying microservices to k8s cluster..."
-  echo -e "\e[1;36m[$(date +%T)]\e[0m \e[1;32m✓\e[0m Container security scan completed"
-  echo -e "\e[1;36m[$(date +%T)]\e[0m \e[1;35m⚡\e[0m Terraform infrastructure deployed"
-  echo -e "\e[1;36m[$(date +%T)]\e[0m \e[1;34m☁️\e[0m Cloud resources optimized"
-  sleep 3
-  clear
-done
+---
 
-Live Terminal
-📊 GitHub Analytics
+### ✍️ Active DevOps Terminal
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=600&lines=Deploying+containers...;Monitoring+clusters...;Securing+cloud...)](https://git.io/typing-svg)
 
-🏆 Featured Projects
-🔒 ProTeq - Advanced Banking Security
+---
 
-Multi-factor banking card protection system with AI-powered threat detection
-Stars
-Forks
-📁 S3 File Manager Pro
+## 💻 Education & Learning
+- Currently learning **Kubernetes production patterns**  
+- Working with **Terraform modules for AWS**  
+- Exploring **DevSecOps & Secure DevOps practices**  
 
-Advanced CLI/Web API for AWS S3 management with encryption and analytics
+---
 
-License
-🧪 DevOps Master Labs
+## 🔥 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=Guido737&theme=dark&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guido737&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guido737&layout=compact&theme=dark)  
 
-Comprehensive practical scenarios with Docker, Kubernetes, and advanced CI/CD
+---
 
-📚 Continuous Learning
-Focus Area	Progress	Tools & Notes
-Kubernetes Production Patterns	75	Helm, Operators, CRDs
-Advanced Terraform Modules	80	AWS Multi-account, Modules
-DevSecOps Practices	65	Security Scanning, Policy as Code
-Service Mesh & eBPF	60	Istio, Cilium, Tracing
-🌐 Connect With Me
+## 🏆 Projects
+- [**ProTeq**](https://github.com/Guido737/ProTeq) – Multi-factor banking card protection system  
+- [S3 File Manager](https://github.com/Guido737/S3-File-Manager) – CLI / Web API for AWS S3 management  
+- [DevOps Labs](https://github.com/Guido737/DevOps-Labs) – Practical scenarios with Docker, Kubernetes, CI/CD  
 
-Telegram
+---
 
-Gmail
+## 🤝 Connect with Me
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Creator/Eversor/Satus/Finis)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:secretmarsel@gmail.com)  
 
-LinkedIn
+---
 
-GitHub
-⚡ Fun Facts & Stats
+## ⚡ Fun / Extras
+- I love **optimizing processes**, automating everything, and making infrastructure “alive.”  
+- Constantly experimenting with Bash, Docker, Kubernetes, CI/CD pipelines, and cloud solutions.  
+- Always learning new DevOps technologies to stay ahead in automation and cloud engineering.
 
-🎯 This Week's Focus: Kubernetes Operator Development
-🔥 Current Challenge: Building a custom CRD for database automation
-🚀 Next Goal: Mastering eBPF for advanced networking
-🏆 GitHub Trophies
-
-Trophies
-👀 Profile Views
-
-Views
