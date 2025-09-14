@@ -47,30 +47,21 @@
 ---
 ## 🏆 Projects
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; max-width: 1000px;">
+<div align="left" style="display:flex; flex-direction: column; gap: 15px; max-width: 600px;">
 
 <!-- ProTeq -->
-<div style="background:#0d1117;border-radius:15px;padding:0;overflow:hidden;width:400px;">
-  ![ProTeq Stats](https://github-readme-stats.vercel.app/api/pin/?username=Guido737&repo=ProTeq&theme=dark&show_owner=true&hide_border=true&width=400&height=180)
-  <div align="center" style="background:#111827;color:#39FF14;padding:8px;font-weight:bold;">
-    🔒 Next-Level Security | ⚡ Advanced Tools Access
-  </div>
+<div style="border: 2px solid #6f42c1; border-radius: 15px; padding: 15px; background: #0d1117;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guido737&repo=ProTeq&theme=dark&hide_border=true" alt="ProTeq" style="width: 100%;">
 </div>
 
 <!-- S3 File Manager -->
-<div style="background:#0d1117;border-radius:15px;padding:0;overflow:hidden;width:400px;">
-  ![S3 File Manager Stats](https://github-readme-stats.vercel.app/api/pin/?username=Guido737&repo=S3-File-Manager&theme=dark&show_owner=true&hide_border=true&width=400&height=180)
-  <div align="center" style="background:#111827;color:#39FF14;padding:8px;font-weight:bold;">
-    📁 Fast Management | 🔐 Data Encryption
-  </div>
+<div style="border: 2px solid #1e40af; border-radius: 15px; padding: 15px; background: #0d1117;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guido737&repo=S3-File-Manager&theme=dark&hide_border=true" alt="S3 File Manager" style="width: 100%;">
 </div>
 
 <!-- DevOps Labs -->
-<div style="background:#0d1117;border-radius:15px;padding:0;overflow:hidden;width:400px;">
-  ![DevOps Labs Stats](https://github-readme-stats.vercel.app/api/pin/?username=Guido737&repo=DevOps-Labs&theme=dark&show_owner=true&hide_border=true&width=400&height=180)
-  <div align="center" style="background:#111827;color:#39FF14;padding:8px;font-weight:bold;">
-    🧪 Practical Scenarios | ☁️ CI/CD & Cloud
-  </div>
+<div style="border: 2px solid #f97316; border-radius: 15px; padding: 15px; background: #0d1117;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guido737&repo=DevOps-Labs&theme=dark&hide_border=true" alt="DevOps Labs" style="width: 100%;">
 </div>
 
 </div>
