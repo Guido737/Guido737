@@ -50,25 +50,25 @@
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; max-width: 1000px;">
 
 <!-- ProTeq -->
-<div style="border-radius: 15px; overflow: hidden; width: 400px;">
+<div style="background:#0d1117;border-radius:15px;padding:0;overflow:hidden;width:400px;">
   ![ProTeq Stats](https://github-readme-stats.vercel.app/api/pin/?username=Guido737&repo=ProTeq&theme=dark&show_owner=true&hide_border=true&width=400&height=180)
-  <div align="center" style="background:#0d1117;color:#39FF14;padding:8px;border-radius:0 0 15px 15px;">
+  <div align="center" style="background:#111827;color:#39FF14;padding:8px;font-weight:bold;">
     🔒 Next-Level Security | ⚡ Advanced Tools Access
   </div>
 </div>
 
 <!-- S3 File Manager -->
-<div style="border-radius: 15px; overflow: hidden; width: 400px;">
+<div style="background:#0d1117;border-radius:15px;padding:0;overflow:hidden;width:400px;">
   ![S3 File Manager Stats](https://github-readme-stats.vercel.app/api/pin/?username=Guido737&repo=S3-File-Manager&theme=dark&show_owner=true&hide_border=true&width=400&height=180)
-  <div align="center" style="background:#0d1117;color:#39FF14;padding:8px;border-radius:0 0 15px 15px;">
+  <div align="center" style="background:#111827;color:#39FF14;padding:8px;font-weight:bold;">
     📁 Fast Management | 🔐 Data Encryption
   </div>
 </div>
 
 <!-- DevOps Labs -->
-<div style="border-radius: 15px; overflow: hidden; width: 400px;">
+<div style="background:#0d1117;border-radius:15px;padding:0;overflow:hidden;width:400px;">
   ![DevOps Labs Stats](https://github-readme-stats.vercel.app/api/pin/?username=Guido737&repo=DevOps-Labs&theme=dark&show_owner=true&hide_border=true&width=400&height=180)
-  <div align="center" style="background:#0d1117;color:#39FF14;padding:8px;border-radius:0 0 15px 15px;">
+  <div align="center" style="background:#111827;color:#39FF14;padding:8px;font-weight:bold;">
     🧪 Practical Scenarios | ☁️ CI/CD & Cloud
   </div>
 </div>
